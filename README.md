@@ -3,7 +3,7 @@
 This Solidity program is a simple demo code for minting and burning token. The purpose of the program is to demonstrate the mechanism of minting , burning and supply of the tokens
 
 ## Description
-This is a Solidity contract for a custom cryptocurrency token called "BROWN" (abbreviated as "BRO"). It has public variables to store the token's name, abbreviation, and total supply. The contract also includes a mapping to track the balance of each address. It provides two main functions: `mintTokens` to increase the total supply and an address's balance, and `burnTokens` to decrease the total supply and an address's balance, with a conditional check to prevent burning more tokens than an address holds.
+This is a Solidity contract for a custom cryptocurrency token called "DIAMOND" (abbreviated as "DIAM"). It has public variables to store the token's name, abbreviation, and total supply. The contract also includes a mapping to track the balance of each address. It provides two main functions: `mintTokens` to increase the total supply and an address's balance, and `burnTokens` to decrease the total supply and an address's balance, with a conditional check to prevent burning more tokens than an address holds.
 ## Getting Started
 
 ### Executing program
